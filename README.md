@@ -2,7 +2,7 @@
 ## Achieving Depth Perception on Computer
 
 For an in depth explanation, visit the website in the repo or through the link: 
-https://jonastjep.github.io/PyDepth.html
+https://jonastjep.github.io/PyDepth/
 
 *We're doing a very nice project  
 Might I add it is flabbergasting  
